@@ -158,5 +158,5 @@ com.BankingAPPSpringBoot.BankingApplication
 
 **Kiran Daud**  
 💼 Java Backend Developer | 💡 Spring Boot Enthusiast  
-📧 [your-email@example.com]  
-🔗 [LinkedIn Profile or Portfolio Link]
+📧 kirandaud007@gmail.com 
+🔗 https://www.linkedin.com/in/kirandaud/
